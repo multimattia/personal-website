@@ -10,7 +10,7 @@ const ContactPage = () => {
       <p>(not that ill be telling you any of my usernames)</p>
       <p>
         My twitter is actually{" "}
-        <a href="https://twitter.com/SkeletonFillet" target="_blank">@SkeletonFillet</a>
+        <a href="https://twitter.com/SkeletonFillet" target="_blank" rel="noreferrer">@SkeletonFillet</a>
       </p>
     </Layout>
   )
