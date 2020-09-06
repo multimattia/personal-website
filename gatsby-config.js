@@ -6,6 +6,10 @@
 
 module.exports = {
   /* Your site config here */
+  siteMetadata: {
+    title: 'Blogger.com!',
+    author: 'Matthew Chan'
+  },
   plugins: [
     'gatsby-plugin-sass'
   ],
