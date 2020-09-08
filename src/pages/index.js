@@ -9,7 +9,7 @@ const IndexPage = () => {
       <h1>Hello.</h1>
       <h2>This is a placeholder.</h2>
       <p>
-        Need a developer? <Link to="/contact">Contact me.</Link>
+        Need a human being? <Link to="/contact">Contact me.</Link>
       </p>
     </Layout>
   )

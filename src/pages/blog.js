@@ -25,7 +25,7 @@ const BlogPage = () => {
   return (
     <Layout>
       <h1>Blog</h1>
-      <p>Posts will show up here.</p>
+      <p>Posts will (eventually) show up here.</p>
     </Layout>
   );
 }
