@@ -1,10 +1,16 @@
 import React from "react";
 import { Link } from "gatsby";
+import { Helmet } from 'react-helmet';
 
 import Layout from '../components/layout';
 
 const IndexPage = () => {
   return (
+    <Helmet>
+      <meta charSet="utf-8" />
+      <html lang="en" />
+      <title>Matt Chan</title>
+    </Helmet>
     <Layout>
       <h1>Hello.</h1>
       <h2>This is a placeholder.</h2>
