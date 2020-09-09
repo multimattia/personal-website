@@ -1,6 +1,6 @@
 ---
 title: "React Sample"
-date: "2019-09-05"
+date: "September 5th, 2020"
 ---
 
 There's a bit of something here.

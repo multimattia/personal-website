@@ -1,6 +1,6 @@
 ---
 title: "Gatsby Sample"
-date: "2019-09-06"
+date: "September 6th, 2020"
 ---
 
 There's nothing here.

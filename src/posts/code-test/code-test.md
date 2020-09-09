@@ -1,6 +1,6 @@
 ---
 title: "Code test"
-date: "2019-09-09"
+date: "September 9th, 2020"
 ---
 ```javascript
 import React from "react"
