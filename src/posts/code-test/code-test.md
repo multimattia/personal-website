@@ -1,3 +1,8 @@
+---
+title: "Code test"
+date: "2019-09-09"
+---
+```javascript
 import React from "react"
 import { Helmet } from "react-helmet"
 import { Link, graphql, useStaticQuery } from "gatsby"
@@ -54,3 +59,4 @@ const BlogPage = () => {
 }
 
 export default BlogPage;
+```

@@ -5,6 +5,8 @@ date: "2019-09-06"
 
 There's nothing here.
 
+![A top-down picture of a mountain.](./mountain.jpg)
+
 ## Topics covered:
 
 1. Git
