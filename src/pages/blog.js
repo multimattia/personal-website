@@ -21,6 +21,15 @@ const BlogPage = () => {
 
   return (
     <Layout>
+      <Helmet>
+        <meta charSet="utf-8" />
+        <html lang="en" />
+        <title>Blog | Matt Chan</title>
+        <meta
+          name="description"
+          content="The blog page of prospective developer Matt Chan's web blog."
+        ></meta>
+      </Helmet>
       <h1>Blog</h1>
       <ol>
         {data.allMarkdownRemark.edges.map((edge) => {

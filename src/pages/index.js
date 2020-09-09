@@ -10,7 +10,7 @@ const IndexPage = () => {
       <Helmet>
         <meta charSet="utf-8" />
         <html lang="en" />
-        <title>Matt Chan</title>
+        <title>Home | Matt Chan</title>
         <meta
           name="description"
           content="The home page of prospective developer Matt Chan's web blog on 
