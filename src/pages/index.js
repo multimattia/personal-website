@@ -11,6 +11,12 @@ const IndexPage = () => {
         <meta charSet="utf-8" />
         <html lang="en" />
         <title>Matt Chan</title>
+        <meta
+          name="description"
+          content="The home page of prospective developer Matt Chan's web blog on 
+          topics he considers interesting including (but not limited to) 
+          programming, computers and UX."
+        ></meta>
       </Helmet>
       <h1>Hello.</h1>
       <h2>This is a placeholder.</h2>
